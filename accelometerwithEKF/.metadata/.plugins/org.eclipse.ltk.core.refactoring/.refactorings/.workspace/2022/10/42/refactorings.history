@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;LIS302DL/Libraries/kalmanfilter.c&apos;" deleteContents="false" description="Delete resource &apos;LIS302DL/Libraries/kalmanfilter.c&apos;" element1="/LIS302DL/Libraries/kalmanfilter.c" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1665697189706"/>&#x0A;<refactoring comment="Delete resource &apos;LIS302DL/Libraries/kalmanfilter.h&apos;" deleteContents="false" description="Delete resource &apos;LIS302DL/Libraries/kalmanfilter.h&apos;" element1="/LIS302DL/Libraries/kalmanfilter.h" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1665697192913"/>
+</session>

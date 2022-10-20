@@ -1,0 +1,7 @@
+kalmanfilter.c:64:6:SimpleKalmanFilter	24	static
+kalmanfilter.c:71:7:updateEstimate	32	static
+kalmanfilter.c:89:6:setMeasurementError	16	static
+kalmanfilter.c:94:6:setEstimateError	16	static
+kalmanfilter.c:99:6:setProcessNoise	16	static
+kalmanfilter.c:104:7:getKalmanGain	4	static
+kalmanfilter.c:108:7:getEstimateError	4	static
